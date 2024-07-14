@@ -1,0 +1,7 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BigZLuvYou/AimLock/main/Silent%20Aim%201"))()
+DaHoodSettings.Prediction = 0.129331234 -- leave this if u dont have good sets
+Aiming.TargetPart = {"Head", "UpperTorso", "LowerTorso", "HumanoidRootPart", "RightFoot", "LeftFoot"}
+Aiming.FOV = 50 -- adjust to how big u want the fov the bigger the number the bigger it gets blatant
+Aiming.FOVSides = 25 -- leave this
+Aiming.HitChance = 110 -- adjust to ur liking's
+Aiming.ShowFOV = true -- true to enable false to disable
